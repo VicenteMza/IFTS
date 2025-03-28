@@ -33,7 +33,7 @@ partial class Form1
         this.ClientSize = new System.Drawing.Size(800, 450);
         this.Text = "Form1";
 
-        // Inicializar controler del formulario
+        // Inicializar controles del formulario
         this.txtBox1 = new TextBox();
         this.txtBox2 = new TextBox();
         this.btnAccept = new Button();

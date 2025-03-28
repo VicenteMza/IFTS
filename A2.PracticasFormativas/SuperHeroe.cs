@@ -10,10 +10,10 @@ namespace Semana2
 
         public SuperHeroe(string name, int strength, int resistance, int superPower)
         {
-            _name = name;
-            _strength = ValidateNumbers(strength);
-            _resistance = ValidateNumbers(resistance);
-            _superPower = ValidateNumbers(superPower);
+            Name = name;
+            Strength = strength;
+            Resistance = resistance;
+            SuperPower = superPower;
         }
 
         public string Name
