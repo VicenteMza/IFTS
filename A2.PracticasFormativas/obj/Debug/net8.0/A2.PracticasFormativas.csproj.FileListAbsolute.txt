@@ -1,0 +1,14 @@
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\bin\Debug\net8.0\A2.PracticasFormativas.exe
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\bin\Debug\net8.0\A2.PracticasFormativas.deps.json
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\bin\Debug\net8.0\A2.PracticasFormativas.runtimeconfig.json
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\bin\Debug\net8.0\A2.PracticasFormativas.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\bin\Debug\net8.0\A2.PracticasFormativas.pdb
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.AssemblyInfoInputs.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.AssemblyInfo.cs
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.csproj.CoreCompileInputs.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\refint\A2.PracticasFormativas.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.pdb
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\A2.PracticasFormativas.genruntimeconfig.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\A2.PracticasFormativas\obj\Debug\net8.0\ref\A2.PracticasFormativas.dll

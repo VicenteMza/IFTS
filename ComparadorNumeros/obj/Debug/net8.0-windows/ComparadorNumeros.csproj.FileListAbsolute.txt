@@ -1,0 +1,14 @@
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\bin\Debug\net8.0-windows\ComparadorNumeros.exe
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\bin\Debug\net8.0-windows\ComparadorNumeros.deps.json
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\bin\Debug\net8.0-windows\ComparadorNumeros.runtimeconfig.json
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\bin\Debug\net8.0-windows\ComparadorNumeros.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\bin\Debug\net8.0-windows\ComparadorNumeros.pdb
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.AssemblyInfoInputs.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.AssemblyInfo.cs
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.csproj.CoreCompileInputs.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\refint\ComparadorNumeros.dll
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.pdb
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ComparadorNumeros.genruntimeconfig.cache
+C:\Users\VicenteD\projects\IFTS\desarrollo_de_sistemas_orientado_a_objetos\ComparadorNumeros\obj\Debug\net8.0-windows\ref\ComparadorNumeros.dll
